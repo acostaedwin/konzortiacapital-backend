@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "konzortiacapital--backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon .",
+    "test": "npx mocha simple.test.js"
+  },
+  "author": "Edwin Acosta",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "chai": "^4.3.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mocha": "^8.4.0",
+    "mongoose": "^5.12.9",
+    "supertest": "^6.1.3"
+  }
+}
