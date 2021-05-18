@@ -2,8 +2,6 @@
 
 - NodeJS
 - ExpressJS
-- Mocha
-- SuperTest
 
 ## Available Scripts
 
